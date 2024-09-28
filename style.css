@@ -8,6 +8,13 @@ main{
     justify-content: center;
     align-items: center;
 }
+p{
+    margin-top: -10px;
+    color: rgba(100, 100, 100, 0.8);
+}
+h2{
+    color:rgb(50, 50, 50)
+}
 
 .mainHeader{
     background-color: whitesmoke;
@@ -22,7 +29,7 @@ main{
 #contact{
     display: flex;
     flex-direction: row;
-    padding: 20px 0px;
+    padding: 10px 0px;
     
 }
 img{
